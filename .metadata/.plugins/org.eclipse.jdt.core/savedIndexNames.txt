@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\nitesh badiya\Desktop\ACCIO\Spring 1 agust 2024\Accio programs spring\.metadata\.plugins\org.eclipse.jdt.core
+3285135714.index
+3640291939.index
+1865797976.index
+1258494689.index
